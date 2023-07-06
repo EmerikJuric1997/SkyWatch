@@ -7,6 +7,9 @@
 </p>
 <p align="center">Android mobile application made with Ionic and Vue.📱</p>
 
+<p align="center">
+<img src="https://i.ibb.co/VqGPV9m/11.png" />
+</p>
 
 
 minmalistic UI and  great UX 📱
@@ -18,10 +21,5 @@ For web preview of the app run:
 4. or connect your mobile to PC and run - ionic capacitor open android (this will open android studio, just click play button to install the app on your phone)
 5. For web production run:
    ionic build 
-
-
-<p align="center">
-<img src="https://i.ibb.co/VqGPV9m/11.png" />
-</p>
 
 
