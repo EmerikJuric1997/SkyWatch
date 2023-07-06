@@ -1,0 +1,7 @@
+{
+  "name": "lolCalculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
